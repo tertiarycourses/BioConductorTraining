@@ -1,0 +1,127 @@
+BAP1 Tumor Predisposition Syndrome.
+PMID: 27748099  [PubMed]
+
+UniProtKB - Q92560 (BAP1_HUMAN) Primary (citable) accession number
+Ubiquitin carboxyl-terminal hydrolase BAP1 (EC:3.4.19.12)
+
+Gene names	
+Name:BAP1
+Synonyms:KIAA0272
+ORF Names:hucep-6
+
+Taxonomic identifier	9606 [NCBI]
+
+Proteomes	
+UP000005640 Component: Chromosome 3
+
+HGNC	HGNC:950. BAP1. 
+
+
+
+FASTA PROTEIN SEQUENCE
+>sp|Q92560|BAP1_HUMAN Ubiquitin carboxyl-terminal hydrolase BAP1 OS=Homo sapiens GN=BAP1 PE=1 SV=2
+MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQGPVYGFIFLFKWIEERRSRR
+KVSTLVDDTSVIDDDIVNNMFFAHQLIPNSCATHALLSVLLNCSSVDLGPTLSRMKDFTK
+GFSPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGLSAVRTMEAFHFVSYVPITGRL
+FELDGLKVYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEPYHDIRFNLMAVVPDRRIK
+YEARLHVLKVNRQTVLEALQQLIRVTQPELIQTHKSQESQLPEESKSASNKSPLVLEANR
+APAASEGNHTDGAEEAAGSCAQAPSHSPPNKPKLVVKPPGSSLNGVHPNPTPIVQRLPAF
+LDNHNYAKSPMQEEEDLAAGVGRSRVPVRPPQQYSDDEDDYEDDEEDDVQNTNSALRYKG
+KGTGKPGALSGSADGQLSVLQPNTINVLAEKLKESQKDLSIPLSIKTSSGAGSPAVAVPT
+HSQPSPTPSNESTDTASEIGSAFNSPLRSPIRSANPTRPSSPVTSHISKVLFGEDDSLLR
+VDCIRYNRAVRDLGPVISTGLLHLAEDGVLSPLALTEGGKGSSPSIRPIQGSQGSSSPVE
+KEVVEATDSREKTGMVRPGEPLSGEKYSPKELLALLKCVEAEIANYEACLKEEVEKRKKF
+KIDDQRRTHNYDEFICTFISMLAQEGMLANLVEQNISVRRRQGVSIGRLHKQRKPDRRKR
+SRPYKAKRQ
+
+
+GENE SEQUENCE
+ 0     aaacttggtg acgtctgccg ccggcgcggg cgggtgacgc gactgggccc gttgtctgtg        
+60
+     tgtgggactg aggggccccg ggggcggtgg gggctcccgg tgggggcagc ggtggggagg       
+120
+     gagggcctgg acatggcgct gaggggccgc cccgcgggaa gatgaataag ggctggctgg       
+180
+     agctggagag cgacccaggc ctcttcaccc tgctcgtgga agatttcggt gtcaaggggg       
+240
+     tgcaagtgga ggagatctac gaccttcaga gcaaatgtca gggccctgta tatggattta       
+300
+     tcttcctgtt caaatggatc gaagagcgcc ggtcccggcg aaaggtctct accttggtgg       
+360
+     atgatacgtc cgtgattgat gatgatattg tgaataacat gttctttgcc caccagctga       
+420
+     tacccaactc ttgtgcaact catgccttgc tgagcgtgct cctgaactgc agcagcgtgg       
+480
+     acctgggacc caccctgagt cgcatgaagg acttcaccaa gggtttcagc cctgagagca       
+540
+     aaggatatgc gattggcaat gccccggagt tggccaaggc ccataatagc catgccaggc       
+600
+     ccgagccacg ccacctccct gagaagcaga atggccttag tgcagtgcgg accatggagg       
+660
+     cgttccactt tgtcagctat gtgcctatca caggccggct ctttgagctg gatgggctga       
+720
+     aggtctaccc cattgaccat gggccctggg gggaggacga ggagtggaca gacaaggccc       
+780
+     ggcgggtcat catggagcgt atcggcctcg ccactgcagg ggagccctac cacgacatcc       
+840
+     gcttcaacct gatggcagtg gtgcccgacc gcaggatcaa gtatgaggcc aggctgcatg       
+900
+     tgctgaaggt gaaccgtcag acagtactag aggctctgca gcagctgata agagtaacac       
+960
+     agccagagct gattcagacc cacaagtctc aagagtcaca gctgcctgag gagtccaagt      
+1020
+     cagccagcaa caagtccccg ctggtgctgg aagcaaacag ggcccctgca gcctctgagg      
+1080
+     gcaaccacac agatggtgca gaggaggcgg ctggttcatg cgcacaagcc ccatcccaca      
+1140
+     gccctcccaa caaacccaag ctagtggtga agcctccagg cagcagcctc aatggggttc      
+1200
+     accccaaccc cactcccatt gtccagcggc tgccggcctt tctagacaat cacaattatg      
+1260
+     ccaagtcccc catgcaggag gaagaagacc tggcggcagg tgtgggccgc agccgagttc      
+1320
+     cagtccgccc accccagcag tactcagatg atgaggatga ctatgaggat gacgaggagg      
+1380
+     atgacgtgca gaacaccaac tctgccctta ggtataaggg gaagggaaca gggaagccag      
+1440
+     gggcattgag cggttctgct gatgggcaac tgtcagtgct gcagcccaac accatcaacg      
+1500
+     tcttggctga gaagctcaaa gagtcccaga aggacctctc aattcctctg tccatcaaga      
+1560
+     ctagcagcgg ggctgggagt ccggctgtgg cagtgcccac acactcgcag ccctcaccca      
+1620
+     cccccagcaa tgagagtaca gacacggcct ctgagatcgg cagtgctttc aactcgccac      
+1680
+     tgcgctcgcc tatccgctca gccaacccga cgcggccctc cagccctgtc acctcccaca      
+1740
+     tctccaaggt gctttttgga gaggatgaca gcctgctgcg tgttgactgc atacgctaca      
+1800
+     accgtgctgt ccgtgatctg ggtcctgtca tcagcacagg cctgctgcac ctggctgagg      
+1860
+     atggggtgct gagtcccctg gcgctgacag agggtgggaa gggttcctcg ccctccatca      
+1920
+     gaccaatcca aggcagccag gggtccagca gcccagtgga gaaggaggtc gtggaagcca      
+1980
+     cggacagcag agagaagacg gggatggtga ggcctggcga gcccttgagt ggggagaaat      
+2040
+     actcacccaa ggagctgctg gcactgctga agtgtgtgga ggctgagatt gcaaactatg      
+2100
+     aggcgtgcct caaggaggag gtagagaaga ggaagaagtt caagattgat gaccagagaa      
+2160
+     ggacccacaa ctacgatgag ttcatctgca cctttatctc catgctggct caggaaggca      
+2220
+     tgctggccaa cctagtggag cagaacatct ccgtgcggcg gcgccaaggg gtcagcatcg      
+2280
+     gccggctcca caagcagcgg aagcctgacc ggcggaaacg ctctcgcccc tacaaggcca      
+2340
+     agcgccagtg aggactgctg gccctgactc tgcagcccac tcttgccgtg tggccctcac      
+2400
+     cagggtcctt ccctgcccca cttccccttt tcccagtatt actgaatagt cccagctgga      
+2460
+     gagtccaggc cctg                                                        
+2474
+//
+
+
+
+LOCUS       NM_004656               3717 bp    mRNA    linear   PRI 10-SEP-2016

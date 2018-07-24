@@ -1,0 +1,132 @@
+ID   AK292608; SV 1; linear; mRNA; STD; HUM; 2474 BP.
+XX
+AC   AK292608;
+XX
+DT   15-OCT-2007 (Rel. 93, Created)
+DT   15-OCT-2008 (Rel. 97, Last updated, Version 3)
+XX
+DE   Homo sapiens cDNA FLJ75117 complete cds, highly similar to Homo sapiens
+DE   BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase) (BAP1),
+DE   mRNA.
+XX
+KW   FLI_CDNA; oligo capping.
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+XX
+RN   [1]
+RP   1-2474
+RA   Isogai T., Yamamoto J.;
+RT   ;
+RL   Submitted (09-OCT-2007) to the INSDC.
+RL   Contact:Takao Isogai Reverse Proteomics Research Institute; 1-9-11
+RL   Kaji-cho, Chiyoda-ku, Tokyo 101-0044, Japan E-mail :flj-cdna@nifty.com
+XX
+RN   [2]
+RA   Wakamatsu A., Yamamoto J., Kimura K., Ishii S., Watanabe K., Sugiyama A.,
+RA   Murakawa K., Kaida T., Tsuchiya K., Fukuzumi Y., Kumagai A., Oishi Y.,
+RA   Yamamoto S., Ono Y., Komori Y., Yamazaki M., Kisu Y., Nishikawa T.,
+RA   Sugano S., Nomura N., Isogai T.;
+RT   "NEDO human cDNA sequencing project";
+RL   Unpublished.
+XX
+DR   MD5; 68c412accfea4b6fdc89807130a5e7e5.
+DR   Ensembl-Gn; ENSG00000163930; homo_sapiens.
+DR   Ensembl-Tr; ENST00000460680; homo_sapiens.
+XX
+CC   Human cDNA sequencing project focused on splicing variants of mRNA
+CC   in NEDO functional analysis of protein and research application
+CC   project supported by Ministry of Economy, Trade and Industry,
+CC   Japan; cDNA selection for complete cds sequencing: Reverse
+CC   Proteomics Research Institute (REPRORI), Hitachi, Ltd., Japan
+CC   (Hitachi) and Japan Biological Informatics Consortium, Japan
+CC   (JBIC); cDNA complete cds sequencing: JBIC; cDNA library
+CC   construction: Helix Research Institute supported by Japan Key
+CC   Technology Center, Japan (HRI); cDNA 5'- & 3'-end sequencing:
+CC   Research Association for Biotechnology, Japan, Biotechnology
+CC   Center, National Institute of Technology and Evaluation, Japan and
+CC   HRI; cDNA mapping to human genome: Central Research Laboratory,
+CC   Hitachi; evaluation and annotation: REPRORI.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2474
+FT                   /organism="Homo sapiens"
+FT                   /mol_type="mRNA"
+FT                   /clone_lib="TESTI4"
+FT                   /clone="TESTI4051314"
+FT                   /tissue_type="testis"
+FT                   /note="cloning vector: pME18SFL3"
+FT                   /db_xref="taxon:9606"
+FT   CDS             162..2351
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /note="highly similar to Homo sapiens BRCA1 associated
+FT                   protein-1 (ubiquitin carboxy-terminal hydrolase) (BAP1),
+FT                   mRNA"
+FT                   /db_xref="GOA:Q92560"
+FT                   /db_xref="H-InvDB:HIT000425405.6"
+FT                   /db_xref="HGNC:HGNC:950"
+FT                   /db_xref="InterPro:IPR001578"
+FT                   /db_xref="UniProtKB/Swiss-Prot:Q92560"
+FT                   /protein_id="BAF85297.1"
+FT                   /translation="MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQGPVYG
+FT                   FIFLFKWIEERRSRRKVSTLVDDTSVIDDDIVNNMFFAHQLIPNSCATHALLSVLLNCS
+FT                   SVDLGPTLSRMKDFTKGFSPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGLSAVR
+FT                   TMEAFHFVSYVPITGRLFELDGLKVYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEP
+FT                   YHDIRFNLMAVVPDRRIKYEARLHVLKVNRQTVLEALQQLIRVTQPELIQTHKSQESQL
+FT                   PEESKSASNKSPLVLEANRAPAASEGNHTDGAEEAAGSCAQAPSHSPPNKPKLVVKPPG
+FT                   SSLNGVHPNPTPIVQRLPAFLDNHNYAKSPMQEEEDLAAGVGRSRVPVRPPQQYSDDED
+FT                   DYEDDEEDDVQNTNSALRYKGKGTGKPGALSGSADGQLSVLQPNTINVLAEKLKESQKD
+FT                   LSIPLSIKTSSGAGSPAVAVPTHSQPSPTPSNESTDTASEIGSAFNSPLRSPIRSANPT
+FT                   RPSSPVTSHISKVLFGEDDSLLRVDCIRYNRAVRDLGPVISTGLLHLAEDGVLSPLALT
+FT                   EGGKGSSPSIRPIQGSQGSSSPVEKEVVEATDSREKTGMVRPGEPLSGEKYSPKELLAL
+FT                   LKCVEAEIANYEACLKEEVEKRKKFKIDDQRRTHNYDEFICTFISMLAQEGMLANLVEQ
+FT                   NISVRRRQGVSIGRLHKQRKPDRRKRSRPYKAKRQ"
+XX
+SQ   Sequence 2474 BP; 550 A; 717 C; 762 G; 445 T; 0 other;
+     aaacttggtg acgtctgccg ccggcgcggg cgggtgacgc gactgggccc gttgtctgtg        60
+     tgtgggactg aggggccccg ggggcggtgg gggctcccgg tgggggcagc ggtggggagg       120
+     gagggcctgg acatggcgct gaggggccgc cccgcgggaa gatgaataag ggctggctgg       180
+     agctggagag cgacccaggc ctcttcaccc tgctcgtgga agatttcggt gtcaaggggg       240
+     tgcaagtgga ggagatctac gaccttcaga gcaaatgtca gggccctgta tatggattta       300
+     tcttcctgtt caaatggatc gaagagcgcc ggtcccggcg aaaggtctct accttggtgg       360
+     atgatacgtc cgtgattgat gatgatattg tgaataacat gttctttgcc caccagctga       420
+     tacccaactc ttgtgcaact catgccttgc tgagcgtgct cctgaactgc agcagcgtgg       480
+     acctgggacc caccctgagt cgcatgaagg acttcaccaa gggtttcagc cctgagagca       540
+     aaggatatgc gattggcaat gccccggagt tggccaaggc ccataatagc catgccaggc       600
+     ccgagccacg ccacctccct gagaagcaga atggccttag tgcagtgcgg accatggagg       660
+     cgttccactt tgtcagctat gtgcctatca caggccggct ctttgagctg gatgggctga       720
+     aggtctaccc cattgaccat gggccctggg gggaggacga ggagtggaca gacaaggccc       780
+     ggcgggtcat catggagcgt atcggcctcg ccactgcagg ggagccctac cacgacatcc       840
+     gcttcaacct gatggcagtg gtgcccgacc gcaggatcaa gtatgaggcc aggctgcatg       900
+     tgctgaaggt gaaccgtcag acagtactag aggctctgca gcagctgata agagtaacac       960
+     agccagagct gattcagacc cacaagtctc aagagtcaca gctgcctgag gagtccaagt      1020
+     cagccagcaa caagtccccg ctggtgctgg aagcaaacag ggcccctgca gcctctgagg      1080
+     gcaaccacac agatggtgca gaggaggcgg ctggttcatg cgcacaagcc ccatcccaca      1140
+     gccctcccaa caaacccaag ctagtggtga agcctccagg cagcagcctc aatggggttc      1200
+     accccaaccc cactcccatt gtccagcggc tgccggcctt tctagacaat cacaattatg      1260
+     ccaagtcccc catgcaggag gaagaagacc tggcggcagg tgtgggccgc agccgagttc      1320
+     cagtccgccc accccagcag tactcagatg atgaggatga ctatgaggat gacgaggagg      1380
+     atgacgtgca gaacaccaac tctgccctta ggtataaggg gaagggaaca gggaagccag      1440
+     gggcattgag cggttctgct gatgggcaac tgtcagtgct gcagcccaac accatcaacg      1500
+     tcttggctga gaagctcaaa gagtcccaga aggacctctc aattcctctg tccatcaaga      1560
+     ctagcagcgg ggctgggagt ccggctgtgg cagtgcccac acactcgcag ccctcaccca      1620
+     cccccagcaa tgagagtaca gacacggcct ctgagatcgg cagtgctttc aactcgccac      1680
+     tgcgctcgcc tatccgctca gccaacccga cgcggccctc cagccctgtc acctcccaca      1740
+     tctccaaggt gctttttgga gaggatgaca gcctgctgcg tgttgactgc atacgctaca      1800
+     accgtgctgt ccgtgatctg ggtcctgtca tcagcacagg cctgctgcac ctggctgagg      1860
+     atggggtgct gagtcccctg gcgctgacag agggtgggaa gggttcctcg ccctccatca      1920
+     gaccaatcca aggcagccag gggtccagca gcccagtgga gaaggaggtc gtggaagcca      1980
+     cggacagcag agagaagacg gggatggtga ggcctggcga gcccttgagt ggggagaaat      2040
+     actcacccaa ggagctgctg gcactgctga agtgtgtgga ggctgagatt gcaaactatg      2100
+     aggcgtgcct caaggaggag gtagagaaga ggaagaagtt caagattgat gaccagagaa      2160
+     ggacccacaa ctacgatgag ttcatctgca cctttatctc catgctggct caggaaggca      2220
+     tgctggccaa cctagtggag cagaacatct ccgtgcggcg gcgccaaggg gtcagcatcg      2280
+     gccggctcca caagcagcgg aagcctgacc ggcggaaacg ctctcgcccc tacaaggcca      2340
+     agcgccagtg aggactgctg gccctgactc tgcagcccac tcttgccgtg tggccctcac      2400
+     cagggtcctt ccctgcccca cttccccttt tcccagtatt actgaatagt cccagctgga      2460
+     gagtccaggc cctg                                                        2474
+//

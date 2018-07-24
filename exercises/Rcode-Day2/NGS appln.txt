@@ -1,0 +1,27 @@
+reads --> start by matching to reference
+all reads mapped to reference genome
+
+#1  variant detection
+
+find new SNPs, 
+take a sample of DNA and align to genome, see if person is heterozygote
+at a particular bp location (low p value)
+also see if person is missing a base in allele
+
+
+
+#2 RNA-seq
+
+gene expression
+take RNA, convert to DNA, align all the reads
+a lot of reads in sample A align to gene 1 rather than sample B
+therfore gene1 more expressed in sample A 
+
+
+
+#3 CHIP-seq
+
+binding sites for TF
+
+align the reads to DNA, which location has enough reads (peak detection)
+to lead us to believe that a protein was bound to that site.
